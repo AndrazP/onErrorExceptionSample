@@ -20,7 +20,7 @@ android {
 }
 
 ext {
-    retrofitLibVersion = '2.2.0'
+    retrofitLibVersion = '2.3.0'
 }
 
 dependencies {
